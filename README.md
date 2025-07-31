@@ -71,7 +71,7 @@ BuildMatix turns disconnected job sites into intelligent, predictive environment
 
 ## 📫 Contact
 
-📧 founders@buildmatix.ai  
+📧 desmond@buildmatix.ai  
 🌍 [www.buildmatix.ai](https://www.buildmatix.ai)  
 📅 [Book a call](https://calendly.com/desmond-buildmatix/)
 
